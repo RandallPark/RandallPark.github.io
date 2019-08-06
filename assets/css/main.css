@@ -2211,13 +2211,14 @@ input, select, textarea {
 		/* Centered text */
 	.centered h2 {
 		position: absolute;
-		top: 50%;
+		top: 40%;
 		left: 50%;
 		transform: translate(-50%, -50%);
 		color: #266ade;
-		font-size: 3.5em;
+		font-size: 3.6em;
 		text-shadow: -2px -2px 5px #77f5e7;
-		/* , 2px 2px 0px #5076f5; */
+		-webkit-text-stroke-width: 1px;
+    	-webkit-text-stroke-color: #ffffff;
 	}
 	
 /* List */
@@ -3091,7 +3092,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
+						background: linear-gradient(45deg, #4fa49a, #4361c2);
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
