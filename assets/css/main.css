@@ -3063,7 +3063,7 @@ input, select, textarea {
 						border: 0;
 						text-decoration: none;
 						position: absolute;
-						float: right;
+						display: center;
 					}
 
 				#titleBar .toggle {
