@@ -1,4 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages  for Warren Ross
+
+**The template for this site came from:**  
+Read Only by HTML5 UP  
+html5up.net | @ajlkn  
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+
+AJ
+aj@lkn.io | @ajlkn
+
+PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+
+
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fontawesome.io)
+
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
+
 
 You can use the [editor on GitHub](https://github.com/RandallPark/randallpark.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +62,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
