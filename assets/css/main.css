@@ -2215,7 +2215,7 @@ input, select, textarea {
 		left: 50%;
 		transform: translate(-50%, -50%);
 		color: #266ade;
-		font-size: 3.6em;
+		font-size: 3.3em;
 		text-shadow: -2px -2px 5px #77f5e7;
 		-webkit-text-stroke-width: 1px;
     	-webkit-text-stroke-color: #ffffff;
@@ -3063,7 +3063,7 @@ input, select, textarea {
 					#titleBar .title a {
 						border: 0;
 						text-decoration: none;
-						position: absolute;
+						/* position: absolute; */
 						display: center;
 					}
 
@@ -3147,6 +3147,14 @@ input, select, textarea {
 			h4 {
 				font-size: 1em;
 			}
+
+			/* titleBar */
+
+		.centered h2{
+			padding-top: 46px;
+			margin: 0;
+			font-size: 3em;
+		}
 
 		/* Image */
 
@@ -3270,6 +3278,7 @@ input, select, textarea {
 /* XSmall */
 
 	@media screen and (max-width: 480px) {
+		
 
 		/* Basic */
 

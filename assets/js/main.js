@@ -8,6 +8,7 @@
 
 	var $window = $(window),
 		$body = $('body'),
+		$addTitleBar = $('div.image.main'),
 		$header = $('#header'),
 		$titleBar = null,
 		$nav = $('#nav'),
