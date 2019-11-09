@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages  for Warren Ross
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Web Presence](#web-presence)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Know Your Tool](#command-line)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[HTML & CSS](#html)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[JavaScript](#javascript)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Capstone](#capstone)
+
 
 ### All the places to find me:
 - [Linkedin](https://www.linkedin.com/in/warrenrross)
