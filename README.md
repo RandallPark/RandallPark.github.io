@@ -1,11 +1,13 @@
 ## Welcome to GitHub Pages  for Warren Ross
+![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 ### All the places to find me:
 - [Linkedin](https://www.linkedin.com/in/warrenrross)
 - [Github](https://github.com/warrenrross)
 - [Medium](https://medium.com/@warrenrross)
 - [Twitter](https://twitter.com/warrenrross)
-- [DEV Profile](https://dev.to/warrenrross)
+- [DEV.to](https://dev.to/warrenrross)
+- [Codepen](https://codepen.io/warrenrross)
 - [Instagram](https://www.instagram.com/warrenrross/)
 
 
