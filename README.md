@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages  for Warren Ross
 
 ### All the places to find me:
-<li><a href="https://www.linkedin.com/in/warrenrross" class="icon brands fa-linkedin"><span class="label">Linkedin</span></a></li>
+-[Linkedin]("https://www.linkedin.com/in/warrenrross")
 							<li><a href="https://github.com/warrenrross" class="icon brands fa-github"><span class="label">Github</span></a></li>
 							<li><a href="https://medium.com/@warrenrross" class="icon brands fa-medium"><span class="label">Medium</span></a></li>
 							<li><a href="https://twitter.com/warrenrross" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
