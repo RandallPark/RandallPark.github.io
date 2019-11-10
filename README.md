@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages  for Warren Ross
-![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
-
+![Bear Clapping](images/bear-clapping.jpg)
 
 
 ### All the places to find me:
@@ -34,3 +33,5 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+[A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
