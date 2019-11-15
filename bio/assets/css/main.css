@@ -1,0 +1,137 @@
+
+
+/* Header */
+
+#header {
+    width: 65em;
+    height: 3em;
+    background: linear-gradient(45deg,  #4fa49a, #4361c2);
+    overflow: hidden;
+    padding: 5px 5px;
+
+}
+
+#header h1 {
+    color:white;
+    padding: 5px;
+    float: left;
+    font-size: 2em;
+    vertical-align: top;
+    margin: 0;
+}
+
+#header a {
+    /* float: right; */
+    color: white;
+    text-align: right;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+  }
+
+.header-right{
+    float: right;
+}
+
+/* Wrapper */
+
+#wrapper {
+    width: 65em;
+    overflow: hidden;
+    padding: 5px 5px;
+}
+
+
+/* Image */
+
+.image {
+    border-radius: 5px;
+    border:0;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    width: 65em;
+    height: 20em;
+}
+
+.image[data-position] img{
+    object-fit: cover;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 65em;
+    height: 20em;
+}
+
+.image[data-position="center"] img{
+    object-position: center;
+}
+
+/* Centered text */
+
+.centered h2 {
+    transform: translate(+0%, +10%);
+    color: #266ade;
+    font-size: 3.3em;
+    text-shadow: -2px -2px 5px #77f5e7;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #ffffff;
+}
+    
+.myButton {
+    background:linear-gradient(to bottom, #4579c7 5%, #43b0d1 100%);
+    background-color:#4579c7;
+    border-radius:8px;
+    border:1px solid #195bab;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:20px;
+    padding:8px 15px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+}
+
+.myButton:hover {
+    background:linear-gradient(to bottom, #43b0d1 5%, #4579c7 100%);
+    background-color:#43b0d1;
+}
+
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    letter-spacing: -1px;
+    word-spacing: 1px;
+    color: #000000ba;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    }
+
+figure{position: relative;}
+
+figure img{
+    float: right;
+    border-radius: 50%;
+    width: 7em;
+    overflow: hidden;
+}
+
+#cartoon {
+    float: right;
+}
+
+#cartoon img{
+    width: 20em;
+}
