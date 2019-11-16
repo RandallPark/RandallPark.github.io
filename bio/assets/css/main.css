@@ -20,7 +20,7 @@
     margin: 0;
 }
 
-#header a {
+#header div a{
     /* float: right; */
     color: white;
     text-align: right;
