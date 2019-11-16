@@ -135,3 +135,13 @@ figure img{
 #cartoon img{
     width: 20em;
 }
+
+/* link in body */
+p a {
+    color: blue;
+  }
+  
+  /* mouse over link in body */
+p  a:hover {
+    color: green;
+  }
