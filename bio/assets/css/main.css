@@ -108,7 +108,7 @@
 
 .container {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 25px;
+    font-size: 1.5em;
     letter-spacing: -1px;
     word-spacing: 1px;
     color: #000000ba;
@@ -137,11 +137,12 @@ figure img{
 }
 
 /* link in body */
-p a {
-    color: blue;
+.content a {
+    color: rgba(0, 0, 255, 0.6);
+    font-size: .9em;
   }
   
   /* mouse over link in body */
-p  a:hover {
-    color: green;
+.content  a:hover {
+    color: rgba(0, 128, 0, 0.708);
   }
