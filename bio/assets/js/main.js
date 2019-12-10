@@ -1,1 +1,7 @@
-// Nothing to see here for now.actions
+
+// Adding class to make Font Awesome icons larger for mobile
+
+function myFunction() {
+    var element = document.getElementById("");
+    element.classList.add("");
+ }
